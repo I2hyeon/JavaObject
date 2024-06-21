@@ -1,0 +1,7 @@
+package day12.inter.basic2;
+
+public abstract class Animal {
+	
+	public abstract void eating();
+
+}
